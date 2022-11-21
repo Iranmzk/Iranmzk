@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Iranmzk
+- 🌱 I’m currently learning angular and ngrx
